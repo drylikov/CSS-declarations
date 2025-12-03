@@ -9,5 +9,5 @@ The project [`style-to-object`](https://github.com/remarkablemark/style-to-objec
 is a maintained alternative.
 
 Old
-[documentation for this package](https://github.com/wooorm/css-declarations/tree/8bdcdc8)
+[documentation for this package](https://github.com/drylikov/CSS_declarations)
 is still available in Git.
