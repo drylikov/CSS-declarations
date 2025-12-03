@@ -16,6 +16,7 @@ but use of this package should be avoided.
 The project [`style-to-object`](https://github.com/remarkablemark/style-to-object)
 is a maintained alternative.
 
+
 Old
 [documentation for this package](https://github.com/drylikov/CSS_declarations)
 is still available in Git.
